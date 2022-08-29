@@ -1,1 +1,0 @@
-# rsj_seminar_no142_ros_basics
